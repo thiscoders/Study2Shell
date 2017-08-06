@@ -1,0 +1,9 @@
+[ye@localhost shell]$ ls
+calcul.sh  case.sh  for.sh  if.sh  isadir.sh  shellhelp.txt  student.txt  test.sh
+[ye@localhost shell]$ vim student.txt 
+
+ID      NAME    SEX     AGE     GRADE   GRADUATEDAY
+01      naruto  M       19      78      2016-07-01
+02      zuozhu  M       20      89      2017-02-13
+03      xiaoyin F       18      89      2015-09-12
+04      kaka    M       23      90      12345613                                                                                                                    5,1           All
