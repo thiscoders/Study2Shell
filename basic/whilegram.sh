@@ -3,7 +3,7 @@
 num=1
 while(($num<10))
 	do
-		printf ï$num
+		printf $num
 		printf "\r\n" 
 		let "num++"
 	done
